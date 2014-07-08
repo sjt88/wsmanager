@@ -1,3 +1,5 @@
+// testing a change in this file for learn the git
+
 EWD.application = {
   name: 'wsManager',
   labels: {
